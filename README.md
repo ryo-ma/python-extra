@@ -14,4 +14,6 @@ PyCharmにインポートする
 File -> importSetting -> 選択
 
 プロジェクトのルートにsecret.ymlの作成が必須
-`api_key: ぐるなびAPIから取得したAPIKEY`
+````yaml
+api_key: ぐるなびAPIから取得したAPIKEY
+```
